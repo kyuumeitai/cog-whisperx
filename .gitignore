@@ -4,3 +4,4 @@ torch_models/**
 **.wav
 .cog/**
 **/__pycache__/**
+.DS_Store
